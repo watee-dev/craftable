@@ -66,7 +66,7 @@
 		}
 	],
 	"require": {
-		"php": "^8.2.0",
+		"php": "^8.0",
 		"watee-dev/admin-auth": "dev-master",
 		"watee-dev/admin-listing": "dev-master",
 		"watee-dev/admin-translations": "dev-master",
