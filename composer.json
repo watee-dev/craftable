@@ -35,6 +35,36 @@
 			"role": "Developer"
 		}
 	],
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/watee-dev/admin-auth"
+		},
+		{
+			"type": "vcs",
+			"url": "https://github.com/watee-dev/admin-listing"
+		},
+		{
+			"type": "vcs",
+			"url": "https://github.com/watee-dev/admin-translations"
+		},
+		{
+			"type": "vcs",
+			"url": "https://github.com/watee-dev/admin-ui"
+		},
+		{
+			"type": "vcs",
+			"url": "https://github.com/watee-dev/advanced-logger"
+		},
+		{
+			"type": "vcs",
+			"url": "https://github.com/watee-dev/media"
+		},
+		{
+			"type": "vcs",
+			"url": "https://github.com/watee-dev/translatable"
+		}
+	],
 	"require": {
 		"php": "^8.2.0",
 		"watee-dev/admin-auth": "dev-master",
